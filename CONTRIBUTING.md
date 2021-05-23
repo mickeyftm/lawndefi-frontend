@@ -63,3 +63,4 @@ The translation component can handle variables being passed in from Crowdin, wit
 It will only work if there is only **one** variable passed in, and if that variable within Crowdin is wrapped in **%** signs, i.e.:
 
 Translation in crowdin: `%asset% Earned` [link](https://crowdin.com/translate/pancakeswap/8/en-de#330)
+<!-- -->

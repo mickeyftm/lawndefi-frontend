@@ -12,11 +12,13 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '#',
+        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x84C1733A372FfB7c862459f92ebA5Fb57EAF75E4',
+        target: '_blank',
       },
       {
         label: 'Liquidity',
-        href: '#',
+        href: 'https://exchange.pancakeswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x84C1733A372FfB7c862459f92ebA5Fb57EAF75E4',
+        target: '_blank',
       },
     ],
   },
@@ -36,11 +38,13 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'DexGuru',
-        href: '#',
+        href: 'https://dex.guru/token/0x84c1733a372ffb7c862459f92eba5fb57eaf75e4-bsc',
+        target: '_blank',
       },
       {
         label: 'PooCoin',
-        href: '#',
+        href: 'https://poocoin.app/tokens/0x84c1733a372ffb7c862459f92eba5fb57eaf75e4',
+        target: '_blank',
       },
     ],
   },

@@ -56,6 +56,11 @@ const config: MenuEntry[] = [
         label: 'Github',
         href: 'https://github.com/lawndefi',
         target: '_blank',
+      },
+      {
+        label: 'Whitepaper',
+        href: 'https://lawndefi.com/WHITEPAPER.pdf',
+        target: '_blank',
       }
     ],
   },
